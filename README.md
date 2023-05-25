@@ -1,7 +1,5 @@
 ### Olá! Sou o José Minelli
 
-Here are some ideas to get you started:
-
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando JavaScript
 - 📫 Contate-me no email: joseminelli04@gmail.com
