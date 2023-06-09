@@ -3,6 +3,7 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando JavaScript
 - 📫 Contate-me no email: joseminelli04@gmail.com
+- 📒 Veja <a href="https://joseminelli.github.io/portifolio/">meu portifólio</a>
 <div><p align="center">
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=joseminelli&show_icons=true&theme=tokyonight&count_private=true&bg_color=00000000&hide_border=true"/>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseminelli&theme=tokyonight&bg_color=00000000&layout=compact&langs_count=168&hide_border=true"/>
