@@ -1,7 +1,7 @@
 ### Olá! Sou o José Minelli
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JavaScript
+- 🔭 Full-Stack
+- 🌱 Estudando Node.js
 - 📫 Contate-me no email: joseminelli04@gmail.com
 - 📒 Veja <a href="https://joseminelli.github.io/portifolio/">meu portifólio</a>
 <div><p align="center">
