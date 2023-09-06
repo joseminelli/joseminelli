@@ -19,6 +19,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg">
   <img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></p>
 </div>
 
