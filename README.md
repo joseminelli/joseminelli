@@ -12,7 +12,7 @@
 
 
 <div style="display: inline_block"><br><p align="center">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="29" src="https://cdn.discordapp.com/attachments/933499827638124575/1160751985809698926/js.png?ex=6535cd87&is=65235887&hm=531d29e0ff095c4884c88374ceab476add62ca0699500bbb83b35754f4de2dfd&">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
