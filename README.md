@@ -16,7 +16,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Lua" height="30" width="29" src="https://cdn.discordapp.com/attachments/933499827638124575/1160747567886368828/lua.png?ex=6535c969&is=65235469&hm=c083afe88803ab7c09eea6e9ea53df4111d131da0457c577ddedcc79b9c558ed&">
+  <img align="center" alt="Lua" height="30" width="29" src="https://cdn.discordapp.com/attachments/933499827638124575/1160750763568533574/lua2.png?ex=6535cc63&is=65235763&hm=b327fb1ec4437c8749b0a166f60b2e0d8d99f1ffcb1c956119ccf4622cb691a8&">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
