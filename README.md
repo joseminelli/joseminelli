@@ -1,7 +1,7 @@
 ### Olá! Sou o José Minelli
 
 - 🔭 Full-Stack
-- 🌱 Estudando Node.js
+- 🌱 Estudando React.js <img align="center" alt="CSS" margin-top="-50px" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 - 📫 Contate-me no email: joseminelli04@gmail.com
 - 📒 Veja <a href="https://joseminelli.github.io/portifolio/">meu portifólio</a>
 <div><p align="center">
