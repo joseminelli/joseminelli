@@ -12,7 +12,7 @@
 
 
 <div style="display: inline_block"><br><p align="center">
-  <img align="center" alt="Node" height="30" width="29" src="https://media.discordapp.net/attachments/933499827638124575/1171051192567214080/node.png?ex=655b4569&is=6548d069&hm=4a97239973e8ea83995acfc12e1548abfb234a80d155d4acb342a62efc8520d5&">
+  <img align="center" alt="Node" height="30" width="29" src="https://cdn.discordapp.com/attachments/933499827638124575/1171052314971357295/node.png?ex=655b4674&is=6548d174&hm=f90277cfc31158024eca04c4cf802f9f1bd930d0f83d8cf4216be4b7ed3072f3&">
   <img align="center" alt="Js" height="29" width="29" src="https://cdn.discordapp.com/attachments/933499827638124575/1160751985809698926/js.png?ex=6535cd87&is=65235887&hm=531d29e0ff095c4884c88374ceab476add62ca0699500bbb83b35754f4de2dfd&">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
