@@ -1,5 +1,3 @@
-Error: Action failed with "Could not resolve to a User with the login of ''."
-
 name: generate animation
 
 on:
