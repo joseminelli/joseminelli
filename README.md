@@ -8,7 +8,7 @@
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=joseminelli&show_icons=true&theme=tokyonight&count_private=true&bg_color=00000000&hide_border=true"/>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseminelli&theme=tokyonight&bg_color=00000000&layout=compact&langs_count=168&hide_border=true"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseminelli&theme=tokyonight&hide_border=true&background=EB545400&locale=pt_BR" alt="joseminelli" />
-
+<img src="https://raw.githubusercontent.com/joseminelli/joseminelli/e80c026aa750ee9e03bf75c05937494932aafdac/github-contribution-grid-snake-dark.svg"/>
 </p>
 </div>
 
