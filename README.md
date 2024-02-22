@@ -5,7 +5,8 @@
 </div>
 
 -----
- - Olá, sou o <code>José</code>, tenho 18 anos, comecei a programar desde meus 13 anos. Atualmente estou no 3° período do curso de Sistemas de Informação, apesar de já ter feito vários cursos menores.
+
+ - Entusiasta da tecnologia de 18 anos, com cinco anos de experiência em programação e atualmente cursando Sistemas de Informação. Experiente em diversas linguagens, incluindo C, C#, JavaScript, HTML, e CSS, com habilidades em desenvolvimento web e de jogos. Buscando oportunidades para aplicar minhas habilidades e contribuir com projetos inovadores na comunidade tecnológica.
 
 <h3 align="center">Principais projetos</h3>
 <div align="center">
