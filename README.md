@@ -25,7 +25,7 @@
 </table>
 </div>
 <br>
-<p align="center">Mais projetos no meu portifólio! Para ver basta clicar [aqui](https://joseminelli.github.io/portifolio/)</p>
+<p align="center">Mais projetos no meu portifólio! Para ver basta clicar <a href="https://joseminelli.github.io/portifolio/"> > aqui < </a> </p>
 
 
 
