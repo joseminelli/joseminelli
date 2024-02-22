@@ -14,12 +14,16 @@
   <tr>
     <td align="center" style="text-align: center; border:none; width: 50%;" >
       <p align="center" style="font-size: 40px;"><b>Quantum Drive</b></p>
-      <img height="auto" style="border-radius: 5px; width: 100%;" src="https://cdn.discordapp.com/attachments/806864237204471839/1196461997961777316/thumb.png?ex=65e5db91&is=65d36691&hm=13ddeb9e70e1e42bca87dccbbc764761d20c1b6becc2b17d8abc5cb4d92f5ba9"/>
+     <a href="https://store.steampowered.com/app/2707960/Quantum_Drive/" target="blank_">
+      <img height="auto" style="border-radius: 5px; width: 100%;" src="https://cdn.discordapp.com/attachments/806864237204471839/1196461997961777316/thumb.png?ex=65e5db91&is=65d36691&hm=13ddeb9e70e1e42bca87dccbbc764761d20c1b6becc2b17d8abc5cb4d92f5ba9" />
+      </a>
       <p align="center">Jogo de corrida desenvolvido na unreal engine 5 e publicado na steam</p>
     </td>
     <td align="center" style="text-align: center; border:none; width: 50%;">
       <p align="center" style="font-size: 40px; "><b>Adote sua patinha</b></p>
-      <img height="auto" style="width: 100%;" src="https://camo.githubusercontent.com/576240255d0274bc3e379d7d36a5cf4ee454b78ad2ab0f716a654662670a3931/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830363836343233373230343437313833392f313133383235313230353934393237363330322f696d6167652e706e673f65783d36356165663930622669733d363539633834306226686d3d3565353764643137623761373435393066356632333937366137656165616233346164626434343539383935623365316263663037353739656364633138633326" href="https://store.steampowered.com/app/2707960/Quantum_Drive/" target="blank_"/>
+     <a href="https://github.com/joseminelli/adote-sua-patinha" target="blank_">
+      <img height="auto" style="width: 100%;" src="https://camo.githubusercontent.com/576240255d0274bc3e379d7d36a5cf4ee454b78ad2ab0f716a654662670a3931/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830363836343233373230343437313833392f313133383235313230353934393237363330322f696d6167652e706e673f65783d36356165663930622669733d363539633834306226686d3d3565353764643137623761373435393066356632333937366137656165616233346164626434343539383935623365316263663037353739656364633138633326"/>
+      </a>
       <p align="center" >Site com propósito de facilitar o encontro de pets com pessoas interessadas em adotar</p>
     </td>
   </tr>
