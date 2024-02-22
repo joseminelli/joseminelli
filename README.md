@@ -7,7 +7,7 @@
 -----
  - Olá, sou o <code>José</code>, tenho 18 anos, comecei a programar desde meus 13 anos. Atualmente estou no 3° período do curso de Sistemas de Informação, apesar de já ter feito vários cursos menores.
 
-### Principais projetos
+<h3 align="center">Principais projetos</h3>
 <div align="center">
   <table style="width: 100%; border:none">
   <tr>
@@ -24,11 +24,14 @@
   </tr>
 </table>
 </div>
+<br>
+<p align="center">Mais projetos no meu portifólio! Para ver basta clicar [aqui](https://joseminelli.github.io/portifolio/)</p>
 
 
 
 -----
 
+<h3 align="center">GitHub Stats</h3>
 <div align="center">
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=joseminelli&show_icons=true&theme=tokyonight&count_private=true&bg_color=00000000&hide_border=true"/>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseminelli&theme=tokyonight&bg_color=00000000&layout=compact&langs_count=168&hide_border=true"/>
@@ -43,8 +46,10 @@
 
 
 <div>
+<br>
+<h3 align="center"><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas</h3>
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+
 
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/></a></code>
 &nbsp; 
@@ -82,6 +87,8 @@
 &nbsp;
 </div>
 
+<br>
+
 -----
 
 <div align="center">
@@ -94,6 +101,7 @@
 -----
 
 
+<h3 align="center">Links</h3>
 <div align="center">
 </table>
 <a href="https://www.linkedin.com/in/joseminelli/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
