@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header.png?raw=true"/>
+<img align="center" alt="Header" src="https://cdn.discordapp.com/attachments/933499827638124575/1212179518316482632/banner.png?ex=65f0e526&is=65de7026&hm=9021e640aa48c4192ae96f7c3c421b3e2b124e328be9ef8d1403c54888224764&"/>
 </div>
 
 -----
