@@ -15,7 +15,7 @@
     <td align="center" style="text-align: center; border:none; width: 50%;" >
       <p align="center" style="font-size: 40px;"><b>Quantum Drive</b></p>
      <a href="https://store.steampowered.com/app/2707960/Quantum_Drive/" target="blank_">
-      <img height="auto" style="border-radius: 5px; width: 100%;" src="https://cdn.discordapp.com/attachments/806864237204471839/1196461997961777316/thumb.png?ex=65e5db91&is=65d36691&hm=13ddeb9e70e1e42bca87dccbbc764761d20c1b6becc2b17d8abc5cb4d92f5ba9" />
+      <img height="auto" style="border-radius: 5px; width: 100%;" src="https://media.discordapp.net/attachments/806864237204471839/1196461997961777316/thumb.png?ex=65f85091&is=65e5db91&hm=a4a5a4da743d2f2cbfeefed67eaadd04e2a5c1c8d32df9b7e1b23e4e768ea95d&=&format=webp&quality=lossless&width=550&height=309" />
       </a>
       <p align="center">Jogo de corrida desenvolvido na unreal engine 5 e publicado na steam</p>
     </td>
@@ -116,4 +116,3 @@
 <a href="https://steamcommunity.com/id/minelli_/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a><br />
 <a href="https://github.com/joseminelli" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
-
