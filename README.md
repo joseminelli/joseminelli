@@ -15,7 +15,7 @@
     <td align="center" style="text-align: center; border:none; width: 50%;" >
       <p align="center" style="font-size: 40px;"><b>Quantum Drive</b></p>
      <a href="https://store.steampowered.com/app/2707960/Quantum_Drive/" target="blank_">
-      <img height="auto" style="border-radius: 5px; width: 100%;" src="https://cdn.discordapp.com/attachments/806864237204471839/1196461997961777316/thumb.png?ex=65f85091&is=65e5db91&hm=a4a5a4da743d2f2cbfeefed67eaadd04e2a5c1c8d32df9b7e1b23e4e768ea95d&" />
+      <img height="auto" style="border-radius: 5px; width: 100%;" src="https://media.discordapp.net/attachments/933499827638124575/1217138406002393108/qd_divulg_high.png?ex=6602ef79&is=65f07a79&hm=569f135a6dad0355051b2324bdb1c7065b50566eb8f2f992a3ef8d7749ca81ff&=&format=webp&quality=lossless&width=1920&height=1080" />
       </a>
       <p align="center">Jogo de corrida desenvolvido na unreal engine 5 e publicado na steam</p>
     </td>
