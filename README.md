@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://cdn.discordapp.com/attachments/933499827638124575/1212481607923933274/banner.png?ex=65f1fe7e&is=65df897e&hm=89599137673fa7e2295a78da9ed1d31757a2e245bd905290acff972947664417&"/>
+<img align="center" alt="Header" src="https://github.com/joseminelli/joseminelli/blob/main/img/banner.png"/>
 </div>
 
 -----
@@ -15,14 +15,14 @@
     <td align="center" style="text-align: center; border:none; width: 50%;" >
       <p align="center" style="font-size: 40px;"><b>Quantum Drive</b></p>
      <a href="https://store.steampowered.com/app/2707960/Quantum_Drive/" target="blank_">
-      <img height="auto" style="border-radius: 5px; width: 100%;" src="https://media.discordapp.net/attachments/933499827638124575/1217138406002393108/qd_divulg_high.png?ex=6602ef79&is=65f07a79&hm=569f135a6dad0355051b2324bdb1c7065b50566eb8f2f992a3ef8d7749ca81ff&=&format=webp&quality=lossless&width=1920&height=1080" />
+      <img height="auto" style="border-radius: 5px; width: 100%;" src="https://github.com/joseminelli/joseminelli/blob/main/img/qd_divulg_high.png" />
       </a>
       <p align="center">Jogo de corrida desenvolvido na unreal engine 5 e publicado na steam</p>
     </td>
     <td align="center" style="text-align: center; border:none; width: 50%;">
       <p align="center" style="font-size: 40px; "><b>Adote sua patinha</b></p>
      <a href="https://github.com/joseminelli/adote-sua-patinha" target="blank_">
-      <img height="auto" style="width: 100%;" src="https://camo.githubusercontent.com/576240255d0274bc3e379d7d36a5cf4ee454b78ad2ab0f716a654662670a3931/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830363836343233373230343437313833392f313133383235313230353934393237363330322f696d6167652e706e673f65783d36356165663930622669733d363539633834306226686d3d3565353764643137623761373435393066356632333937366137656165616233346164626434343539383935623365316263663037353739656364633138633326"/>
+      <img height="auto" style="width: 100%;" src="https://github.com/joseminelli/joseminelli/blob/main/img/pets.png"/>
       </a>
       <p align="center" >Site com propósito de facilitar o encontro de pets com pessoas interessadas em adotar</p>
     </td>
