@@ -15,7 +15,7 @@
     <td align="center" style="text-align: center; border:none; width: 50%;" >
       <p align="center" style="font-size: 40px;"><b>Quantum Drive</b></p>
      <a href="https://store.steampowered.com/app/2707960/Quantum_Drive/" target="blank_">
-      <img height="auto" style="border-radius: 5px; width: 100%;" src="https://github.com/joseminelli/joseminelli/blob/main/img/qd_divulg_high.png" />
+      <img height="auto" style="border-radius: 5px; width: 100%;" src="https://github.com/joseminelli/joseminelli/blob/main/img/unrealCover.png" />
       </a>
       <p align="center">Jogo de corrida desenvolvido na unreal engine 5 e publicado na steam</p>
     </td>
