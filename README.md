@@ -30,7 +30,7 @@
 </table>
 </div>
 <br>
-<p align="center">Mais projetos no meu portifólio! Para ver basta clicar <a href="https://joseminelli.github.io/portifolio/"> > aqui < </a> </p>
+<p align="center">Mais projetos no meu portifólio! Para ver basta clicar <a href="https://joseminelli.github.io/portifolio/"> <b> > aqui < </b>  </a> </p>
 
 
 
