@@ -55,39 +55,39 @@
 <h3 align="center"><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas</h3>
 
 
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"/></a></code>
+<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"/></a></code>
 &nbsp;
-<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/></a></code>
 &nbsp; 
-<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/></a></code>
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/></a></code>
 &nbsp; 
-<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/></a></code>
+<code><a href="https://isocpp.org/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></a></code>
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></a></code>
 &nbsp; 
-<code><a href="https://flutter.dev/" target="_blank"><img width="32" height="32" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"/></a></code>
+<code><a href="https://flutter.dev/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"/></a></code>
 &nbsp;
-<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/></a></code>
+<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/></a></code>
 &nbsp; 
-<code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/></a></code>
+<code><a href="https://www.postgresql.org/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/></a></code>
 &nbsp; 
-<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/></a></code>
+<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/></a></code>
 &nbsp; 
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"/></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"/></a></code>
 &nbsp;
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></a></code>
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></a></code>
 &nbsp; 
-<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/javafx.png?raw=true"/></a></code>
+<code><a href="https://openjfx.io/" target="_blank"><img height="40" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/javafx.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/></a></code>
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/></a></code>
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/></a></code>
 &nbsp; 
-<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/></a></code>
 &nbsp;
-<code><a href="https://www.unrealengine.com" target="_blank"><img width="32" height="32" src="https://cdn.discordapp.com/attachments/933499827638124575/1231245829709500447/unreal.png?ex=66251e89&is=6623cd09&hm=0012ad9e68ca9a11328a4216ee65332c8b00be354238c392ceab2706e5bbc278&"/></a></code>
+<code><a href="https://www.unrealengine.com" target="_blank"><img width="40" height="40" src="https://cdn.discordapp.com/attachments/806864237204471839/1239709384196620391/unreal.png?ex=6643e8d5&is=66429755&hm=9f822b28e615acf2c1f04ce4df684270a7ec4783b0691ad222a8861b97bca7bb&"/></a></code>
 &nbsp;
-<code><a href="https://unity.com/" target="_blank"><img width="32" height="32" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"/></a></code>
+<code><a href="https://unity.com/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"/></a></code>
 &nbsp;
 </div>
 
