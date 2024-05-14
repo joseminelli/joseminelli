@@ -102,8 +102,8 @@
 </a>
 </div>
 
------
 
+-----
 
 <h3 align="center">Links</h3>
 <div align="center">
@@ -115,3 +115,26 @@
 <a href="https://steamcommunity.com/id/minelli_/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a><br />
 <a href="https://github.com/joseminelli" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
+
+
+-----
+
+<div align="center">
+<img src="https://img.shields.io/badge/Java-Intermediate-blue"/>
+<img src="https://img.shields.io/badge/Csharp-Enthusiast-blue"/>
+<img src="https://img.shields.io/badge/Clean%20Code-Evangelist-blue"/>
+<img src="https://img.shields.io/badge/Open%20Source-Lover-blue?logo=opensourceinitiative"/>
+<br />
+<img src="https://img.shields.io/badge/JavaScript-Dev-blue?logo=javascript"/>
+<img src="https://img.shields.io/badge/Node.js-Dev-blue?logo=Node.js"/>
+<img src="https://img.shields.io/badge/Unity-Dev-blue?logo=unity"/>
+<br />
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joseminelli"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/joseminelli/joseminelli?logo=git"/>
+<a href="https://stars.github.com/joseminelli/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
+<img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B100%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
+<br />
+<img alt="Followers" src="https://img.shields.io/github/followers/joseminelli?style=social"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/joseminelli?style=social"/>
+</div>
+
