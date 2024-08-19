@@ -10,9 +10,9 @@
 
 <h3 align="center">Principais projetos</h3>
 <div align="center">
-  <table style="width: 100%; border:none">
+  <table style="width: 100%; border:0px;">
   <tr>
-    <td align="center" style="text-align: center; border:none; width: 50%;" >
+    <td align="center" style="text-align: center; border:none; width: 50%; " >
       <p align="center" style="font-size: 40px;"><b>Quantum Drive</b></p>
      <a href="https://store.steampowered.com/app/2707960/Quantum_Drive/" target="blank_">
       <img height="auto" style="border-radius: 5px; width: 100%;" src="https://github.com/joseminelli/joseminelli/blob/main/img/unrealCover.png" />
