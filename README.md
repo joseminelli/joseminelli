@@ -28,6 +28,24 @@
     </td>
   </tr>
 </table>
+  <table style="width: 100%; border:none">
+  <tr>
+    <td align="center" style="text-align: center; border:none; width: 40%;">
+      <p align="center" style="font-size: 40px; "><b>Purr Cafe</b></p>
+     <a href="https://play.google.com/store/apps/details?id=com.minelli.com.unityPurrCafe&hl=pt-br_US" target="blank_">
+      <img height="auto" style="width: 90%;" src="https://media.discordapp.net/attachments/806864237204471839/1241021659566182410/PurrCafe_Banner.png?ex=66c49bfc&is=66c34a7c&hm=8de7b44691c38d7c814c6d2cbce7ef7a34cd7ec1d094b0f080b29631487b8c33&=&format=webp&quality=lossless&width=687&height=386"/>
+      </a>
+      <p align="center" >Jogo mobile feito em C# e publicado na PlayStore</p>
+    </td>
+    <td align="center" style="text-align: center; border:none; width: 60%;">
+      <p align="center" style="font-size: 40px; "><b>CuminicATIVA</b></p>
+     <a href="https://www.behance.net/gallery/205064669/ComunicATIVA-app-design" target="blank_">
+      <img height="auto" style="width: 100%;" src="https://media.discordapp.net/attachments/806864237204471839/1275240502517563392/image.png?ex=66c52bc4&is=66c3da44&hm=41613314c72658800af522c71b8347112d72bc9d888be7ba0d40ce06aede7cfd&=&format=webp&quality=lossless&width=595&height=437"/>
+      </a>
+      <p align="center" >App desenvolvido em Flutter, em breve na PlayStore</p>
+    </td>
+  </tr>
+</table>
 </div>
 <br>
 <p align="center">Mais projetos no meu portifólio! Para ver basta clicar <a href="https://joseminelli.github.io/portifolio/"> <b> > aqui < </b>  </a> </p>
