@@ -103,7 +103,7 @@
 &nbsp; 
 <code><a href="https://nodejs.org/en/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/></a></code>
 &nbsp;
-<code><a href="https://www.unrealengine.com" target="_blank"><img width="40" height="40" src="https://cdn.discordapp.com/attachments/806864237204471839/1239709384196620391/unreal.png?ex=6643e8d5&is=66429755&hm=9f822b28e615acf2c1f04ce4df684270a7ec4783b0691ad222a8861b97bca7bb&"/></a></code>
+<code><a href="https://www.unrealengine.com" target="_blank"><img width="40" height="40" src="https://www.pikpng.com/pngl/b/543-5434947_unreal-engine-logo-unreal-engine-logo-ico-clipart.png"/></a></code>
 &nbsp;
 <code><a href="https://unity.com/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"/></a></code>
 &nbsp;
@@ -132,6 +132,7 @@
 <a href="https://www.instagram.com/joseminelli_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/minelli_/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a><br />
 <a href="https://github.com/joseminelli" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.behance.net/joseminelli" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white"/></a>
 </div>
 
 
