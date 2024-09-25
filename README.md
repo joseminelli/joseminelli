@@ -40,7 +40,7 @@
     <td align="center" style="text-align: center; border:none; width: 60%;">
       <p align="center" style="font-size: 40px; "><b>CuminicATIVA</b></p>
      <a href="https://www.behance.net/gallery/205064669/ComunicATIVA-app-design" target="blank_">
-      <img height="auto" style="width: 100%;" src="https://github.com/joseminelli/joseminelli/blob/main/img/image.png"/>
+      <img height="auto" style="width: 100%;" src="https://raw.githubusercontent.com/joseminelli/joseminelli/refs/heads/main/img/comunicativa.png"/>
       </a>
       <p align="center" >App desenvolvido em Flutter, em breve na PlayStore</p>
     </td>
