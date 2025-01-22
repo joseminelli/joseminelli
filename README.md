@@ -46,6 +46,18 @@
     </td>
   </tr>
 </table>
+</table>
+  <table style="width: 50%; border:none">
+    <td align="center" style="text-align: center; border:none; width: 40%;">
+      <p align="center" style="font-size: 40px; "><b>ShowBook</b></p>
+     <a href="[https://www.behance.net/gallery/205064669/ComunicATIVA-app-design](https://www.behance.net/gallery/217410565/ShowBook?)" target="blank_">
+      <img height="auto" style="width: 50%;" src="https://github.com/joseminelli/joseminelli/blob/main/img/showbook.png"/>
+      </a>
+      <p align="center" >App desenvolvido em Flutter, com arquitetura MVVM (código privado)</p>
+    </td>
+  </tr>
+</table>
+
 </div>
 <br>
 <p align="center">Mais projetos no meu portifólio! Para ver basta clicar <a href="https://joseminelli.github.io/portifolio/"> <b> > aqui < </b>  </a> </p>
