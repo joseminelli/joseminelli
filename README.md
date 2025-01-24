@@ -47,8 +47,8 @@
   </tr>
 </table>
 </table>
-  <table style="width: 50%; border:none">
-    <td align="center" style="text-align: center; border:none; width: 40%;">
+  <table style="width: 100%; border:none">
+    <td align="center" style="text-align: center; border:none; width: 100%;">
       <p align="center" style="font-size: 40px; "><b>ShowBook</b></p>
      <a href="https://www.behance.net/gallery/217410565/ShowBook?" target="blank_">
       <img height="auto" style="width: 50%;" src="https://github.com/joseminelli/joseminelli/blob/main/img/showbook.png"/>
@@ -60,8 +60,9 @@
 
 </div>
 <br>
-<p align="center">Mais projetos no meu portifólio! Para ver basta clicar <a href="https://joseminelli.github.io/portifolio/"> <b> > aqui < </b>  </a> </p>
-
+<div align="center">
+<a  href="https://joseminelli.github.io/portifolio/"> <img  height="auto" style="width: 100%;" src="https://raw.githubusercontent.com/joseminelli/joseminelli/refs/heads/main/img/portifolio.png"> </a> 
+</div>
 
 
 -----
