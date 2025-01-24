@@ -32,17 +32,17 @@
   <tr>
     <td align="center" style="text-align: center; border:none; width: 40%;">
       <p align="center" style="font-size: 40px; "><b>Purr Cafe</b></p>
-     <a href="https://play.google.com/store/apps/details?id=com.minelli.com.unityPurrCafe&hl=pt-br_US" target="blank_">
+     <a href="https://drive.google.com/file/d/169OuvYzyZYqSmg7uHuIRu-n-IGT465cd/view?usp=drive_link" target="blank_">
       <img height="auto" style="width: 90%;" src="https://github.com/joseminelli/joseminelli/blob/main/img/PurrCafe_Banner.png"/>
       </a>
-      <p align="center" >Jogo mobile feito em C# e publicado na PlayStore</p>
+      <p align="center" >Jogo mobile feito em C#</p>
     </td>
     <td align="center" style="text-align: center; border:none; width: 60%;">
       <p align="center" style="font-size: 40px; "><b>CuminicATIVA</b></p>
      <a href="https://www.behance.net/gallery/205064669/ComunicATIVA-app-design" target="blank_">
       <img height="auto" style="width: 100%;" src="https://raw.githubusercontent.com/joseminelli/joseminelli/refs/heads/main/img/comunicativa.png"/>
       </a>
-      <p align="center" >App desenvolvido em Flutter, em breve na PlayStore</p>
+      <p align="center" >App desenvolvido em Flutter</p>
     </td>
   </tr>
 </table>
