@@ -35,14 +35,14 @@
      <a href="https://drive.google.com/file/d/169OuvYzyZYqSmg7uHuIRu-n-IGT465cd/view?usp=drive_link" target="blank_">
       <img height="auto" style="width: 90%;" src="https://github.com/joseminelli/joseminelli/blob/main/img/PurrCafe_Banner.png"/>
       </a>
-      <p align="center" >Jogo mobile feito em C#</p>
+      <p align="center" >Jogo mobile feito em C# <br> <a href="https://drive.google.com/file/d/169OuvYzyZYqSmg7uHuIRu-n-IGT465cd/view?usp=drive_link" target="blank_">Clique aqui </a> para fazer o download do APK</p>
     </td>
     <td align="center" style="text-align: center; border:none; width: 60%;">
       <p align="center" style="font-size: 40px; "><b>CuminicATIVA</b></p>
      <a href="https://www.behance.net/gallery/205064669/ComunicATIVA-app-design" target="blank_">
       <img height="auto" style="width: 100%;" src="https://raw.githubusercontent.com/joseminelli/joseminelli/refs/heads/main/img/comunicativa.png"/>
       </a>
-      <p align="center" >App desenvolvido em Flutter</p>
+      <p align="center" >App desenvolvido em Flutter <br> <a href="https://drive.google.com/file/d/1d5G4_RPJerEECp2xDWUSLaBMmAt-B_nf/view?usp=drive_link" target="blank_">Clique aqui </a> para fazer o download do APK</p>
     </td>
   </tr>
 </table>
@@ -50,10 +50,10 @@
   <table style="width: 50%; border:none">
     <td align="center" style="text-align: center; border:none; width: 40%;">
       <p align="center" style="font-size: 40px; "><b>ShowBook</b></p>
-     <a href="[https://www.behance.net/gallery/205064669/ComunicATIVA-app-design](https://www.behance.net/gallery/217410565/ShowBook?)" target="blank_">
+     <a href="https://www.behance.net/gallery/217410565/ShowBook?" target="blank_">
       <img height="auto" style="width: 50%;" src="https://github.com/joseminelli/joseminelli/blob/main/img/showbook.png"/>
       </a>
-      <p align="center" >App desenvolvido em Flutter, com arquitetura MVVM (código privado)</p>
+      <p align="center" >App desenvolvido em Flutter, com arquitetura MVVM (código privado) <br> <a href="https://drive.google.com/file/d/1OB4jRC0wLh_BNzBhMyMfMZEC4rFV2Jbp/view?usp=drive_link" target="blank_">Clique aqui </a> para fazer o download do APK</p>
     </td>
   </tr>
 </table>
