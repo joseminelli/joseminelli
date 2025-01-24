@@ -16,7 +16,7 @@
 
 <h3 align="center">Principais projetos</h3>
 <div align="center">
-  <table style="width: 100%; border:0px;">
+  <table style="width: 100%; border:none;">
   <tr>
     <td align="center" style="text-align: center; border:none; width: 50%; " >
       <p align="center" style="font-size: 40px;"><b>Quantum Drive</b></p>
@@ -52,17 +52,38 @@
     </td>
   </tr>
 </table>
-</table>
-  <table style="width: 100%; border:none">
-    <td align="center" style="text-align: center; border:none; width: 100%;">
-      <p align="center" style="font-size: 40px; "><b>ShowBook</b></p>
-     <a href="https://www.behance.net/gallery/217410565/ShowBook?" target="_blank">
-      <img height="auto" style="width: 50%;" src="https://github.com/joseminelli/joseminelli/blob/main/img/showbook.png"/>
+<h3 align="center">ShowBook</h3>
+
+<table style="width: 100%; border: none;">
+  <tr>
+    <td align="center" style="width: 50%;">
+      <a href="https://www.behance.net/gallery/217410565/ShowBook?" target="_blank">
+        <img
+          src="https://github.com/joseminelli/joseminelli/blob/main/img/showbook.png"
+          alt="ShowBook"
+          style="width: 100%; max-width: 300px; border-radius: 10px;"
+        />
       </a>
-      <p align="center" >App desenvolvido em Flutter, com arquitetura MVVM (código privado) <br> <a href="https://drive.google.com/file/d/1OB4jRC0wLh_BNzBhMyMfMZEC4rFV2Jbp/view?usp=drive_link" target="_blank">Clique aqui </a> para fazer o download do APK</p>
+    </td>
+    <td style="width: 50%; text-align: left; vertical-align: middle;">
+      <p>Aplicativo desenvolvido em Flutter com arquitetura MVVM, projetado para ser um diário de shows, permitindo registrar e guardar memórias de cada show assistido.</p>
+     <br>
+      <p align="center">
+       Baixe o APK do aplicativo 
+       <b>
+        <a href="https://drive.google.com/file/d/1OB4jRC0wLh_BNzBhMyMfMZEC4rFV2Jbp/view?usp=drive_link" target="_blank">
+          aqui
+        </a> 
+       </b>
+       <br>
+          OU
+       <br>
+          Confira a apresentação completa do app clicando na imagem.
+      </p>
     </td>
   </tr>
 </table>
+
 
 </div>
 <br>
