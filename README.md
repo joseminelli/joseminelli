@@ -5,7 +5,7 @@
 </div>
 <br>
 
- - Sou um entusiasta da tecnologia de 19 anos, com cinco anos de experiência em programação e atualmente cursando Sistemas de Informação. Com conhecimento em diversas linguagens, incluindo <code>Flutter</code>, <code>Java</code> <code>C++</code>, <code>C#</code>, <code>Lua</code>, <code>JavaScript</code>, <code>HTML</code>, e <code>Node</code>, com habilidades em desenvolvimento web, de jogos e em design gráfico. Buscando oportunidades para aplicar minhas habilidades e contribuir com projetos inovadores na comunidade tecnológica.
+ - Sou um entusiasta da tecnologia de 19 anos, com cinco anos de experiência em programação e atualmente cursando Sistemas de Informação. Com conhecimento em diversas linguagens, incluindo <code>Flutter</code>, <code>Java</code> <code>C++</code>, <code>C#</code>, <code>Lua</code>, <code>JavaScript</code>, <code>HTML</code>, e <code>Node</code>, com habilidades em desenvolvimento web, de jogos e em design gráfico.
 <div align="center">
 <a href="https://joseminelli.github.io/portifolio/" target="_blank"> 
  <img  height="auto" style="width: 100%;" src="https://raw.githubusercontent.com/joseminelli/joseminelli/refs/heads/main/img/portifolio.png"> 
