@@ -7,7 +7,7 @@
 
  - Sou um entusiasta da tecnologia de 19 anos, com cinco anos de experiência em programação e atualmente cursando Sistemas de Informação. Com conhecimento em diversas linguagens, incluindo <code>Flutter</code>, <code>Java</code> <code>C++</code>, <code>C#</code>, <code>Lua</code>, <code>JavaScript</code>, <code>HTML</code>, e <code>Node</code>, com habilidades em desenvolvimento web, de jogos e em design gráfico. Buscando oportunidades para aplicar minhas habilidades e contribuir com projetos inovadores na comunidade tecnológica.
 <div align="center">
-<a href="https://joseminelli.github.io/portifolio/" target="blank_"> 
+<a href="https://joseminelli.github.io/portifolio/" target="_blank"> 
  <img  height="auto" style="width: 100%;" src="https://raw.githubusercontent.com/joseminelli/joseminelli/refs/heads/main/img/portifolio.png"> 
 </a> 
 </div>
@@ -20,14 +20,14 @@
   <tr>
     <td align="center" style="text-align: center; border:none; width: 50%; " >
       <p align="center" style="font-size: 40px;"><b>Quantum Drive</b></p>
-     <a href="https://store.steampowered.com/app/2707960/Quantum_Drive/" target="blank_">
+     <a href="https://store.steampowered.com/app/2707960/Quantum_Drive/" target="_blank">
       <img height="auto" style="border-radius: 5px; width: 100%;" src="https://github.com/joseminelli/joseminelli/blob/main/img/unrealCover.png" />
       </a>
       <p align="center">Jogo de corrida desenvolvido na unreal engine 5 e publicado na steam</p>
     </td>
     <td align="center" style="text-align: center; border:none; width: 50%;">
       <p align="center" style="font-size: 40px; "><b>Adote sua patinha</b></p>
-     <a href="https://github.com/joseminelli/adote-sua-patinha" target="blank_">
+     <a href="https://github.com/joseminelli/adote-sua-patinha" target="_blank">
       <img height="auto" style="width: 100%;" src="https://github.com/joseminelli/joseminelli/blob/main/img/pets.png"/>
       </a>
       <p align="center" >Site com propósito de facilitar o encontro de pets com pessoas interessadas em adotar</p>
@@ -38,17 +38,17 @@
   <tr>
     <td align="center" style="text-align: center; border:none; width: 40%;">
       <p align="center" style="font-size: 40px; "><b>Purr Cafe</b></p>
-     <a href="https://drive.google.com/file/d/169OuvYzyZYqSmg7uHuIRu-n-IGT465cd/view?usp=drive_link" target="blank_">
+     <a href="https://drive.google.com/file/d/169OuvYzyZYqSmg7uHuIRu-n-IGT465cd/view?usp=drive_link" target="_blank">
       <img height="auto" style="width: 90%;" src="https://github.com/joseminelli/joseminelli/blob/main/img/PurrCafe_Banner.png"/>
       </a>
-      <p align="center" >Jogo mobile feito em C# <br> <a href="https://drive.google.com/file/d/169OuvYzyZYqSmg7uHuIRu-n-IGT465cd/view?usp=drive_link" target="blank_">Clique aqui </a> para fazer o download do APK</p>
+      <p align="center" >Jogo mobile feito em C# <br> <a href="https://drive.google.com/file/d/169OuvYzyZYqSmg7uHuIRu-n-IGT465cd/view?usp=drive_link" target="_blank">Clique aqui </a> para fazer o download do APK</p>
     </td>
     <td align="center" style="text-align: center; border:none; width: 60%;">
       <p align="center" style="font-size: 40px; "><b>CuminicATIVA</b></p>
-     <a href="https://www.behance.net/gallery/205064669/ComunicATIVA-app-design" target="blank_">
+     <a href="https://www.behance.net/gallery/205064669/ComunicATIVA-app-design" target="_blank">
       <img height="auto" style="width: 100%;" src="https://raw.githubusercontent.com/joseminelli/joseminelli/refs/heads/main/img/comunicativa.png"/>
       </a>
-      <p align="center" >App desenvolvido em Flutter <br> <a href="https://drive.google.com/file/d/1d5G4_RPJerEECp2xDWUSLaBMmAt-B_nf/view?usp=drive_link" target="blank_">Clique aqui </a> para fazer o download do APK</p>
+      <p align="center" >App desenvolvido em Flutter <br> <a href="https://drive.google.com/file/d/1d5G4_RPJerEECp2xDWUSLaBMmAt-B_nf/view?usp=drive_link" target="_blank">Clique aqui </a> para fazer o download do APK</p>
     </td>
   </tr>
 </table>
@@ -56,10 +56,10 @@
   <table style="width: 100%; border:none">
     <td align="center" style="text-align: center; border:none; width: 100%;">
       <p align="center" style="font-size: 40px; "><b>ShowBook</b></p>
-     <a href="https://www.behance.net/gallery/217410565/ShowBook?" target="blank_">
+     <a href="https://www.behance.net/gallery/217410565/ShowBook?" target="_blank">
       <img height="auto" style="width: 50%;" src="https://github.com/joseminelli/joseminelli/blob/main/img/showbook.png"/>
       </a>
-      <p align="center" >App desenvolvido em Flutter, com arquitetura MVVM (código privado) <br> <a href="https://drive.google.com/file/d/1OB4jRC0wLh_BNzBhMyMfMZEC4rFV2Jbp/view?usp=drive_link" target="blank_">Clique aqui </a> para fazer o download do APK</p>
+      <p align="center" >App desenvolvido em Flutter, com arquitetura MVVM (código privado) <br> <a href="https://drive.google.com/file/d/1OB4jRC0wLh_BNzBhMyMfMZEC4rFV2Jbp/view?usp=drive_link" target="_blank">Clique aqui </a> para fazer o download do APK</p>
     </td>
   </tr>
 </table>
