@@ -3,7 +3,7 @@
 <div>
 <img align="center" alt="Header" src="https://github.com/joseminelli/joseminelli/blob/main/img/banner.png"/>
 </div>
-
+<br>
 
  - Sou um entusiasta da tecnologia de 19 anos, com cinco anos de experiência em programação e atualmente cursando Sistemas de Informação. Com conhecimento em diversas linguagens, incluindo <code>Flutter</code>, <code>Java</code> <code>C++</code>, <code>C#</code>, <code>Lua</code>, <code>JavaScript</code>, <code>HTML</code>, e <code>Node</code>, com habilidades em desenvolvimento web, de jogos e em design gráfico. Buscando oportunidades para aplicar minhas habilidades e contribuir com projetos inovadores na comunidade tecnológica.
 <div align="center">
