@@ -127,6 +127,12 @@
 &nbsp; 
 <code><a href="https://www.postgresql.org/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/></a></code>
 &nbsp; 
+<code><a href="https://jquery.com/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jquery/jquery-plain-wordmark.svg"/></a></code>
+&nbsp; 
+<code><a href="https://www.mysql.com/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original.svg"/></a></code>
+&nbsp;
+<code><a href="https://www.lua.org/download.html" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/lua/lua-original.svg"/></a></code>
+&nbsp;
 <code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/></a></code>
 &nbsp; 
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"/></a></code>
@@ -145,6 +151,7 @@
 &nbsp;
 <code><a href="https://unity.com/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"/></a></code>
 &nbsp;
+
 </div>
 
 <br>
