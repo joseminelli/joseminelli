@@ -34,7 +34,7 @@
       <p align="center">
        Baixe na Play Store!
        <b>
-        <a href="https://drive.google.com/file/d/1OB4jRC0wLh_BNzBhMyMfMZEC4rFV2Jbp/view?usp=drive_link" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=com.minelli.talesofbloomrise" target="_blank">
           aqui
         </a> 
        </b>
