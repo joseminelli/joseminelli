@@ -16,6 +16,33 @@
 
 <h3 align="center">Principais projetos</h3>
 <div align="center">
+ <table style="width: 100%; border: none;">
+  <tr>
+    <td align="center" style="width: 80%;">
+      <p align="center" style="font-size: 40px;"><b>Tales of Bloomrise</b></p>
+      <a href="https://play.google.com/store/apps/details?id=com.minelli.talesofbloomrise" target="_blank">
+        <img
+          src="https://github.com/joseminelli/joseminelli/blob/main/img/talesofbloomrise.png?raw=true"
+          alt="Tales of Bloomrise"
+          style="width: 100%; max-width: 500px; border-radius: 10px;"
+        />
+      </a>
+    </td>
+    <td style="width: 50%; text-align: left; vertical-align: middle;">
+      <p>Assuma o papel de Rayy, uma jovem aventureira que mora na pacata vila de Bloomrise. O que começa como uma busca por uma aventura rapidamente se transforma em uma grande jornada quando segredos antigos e dungeons perigosas são revelados sob a superfície tranquila da vila.</p>
+     <br>
+      <p align="center">
+       Baixe na Play Store!
+       <b>
+        <a href="https://drive.google.com/file/d/1OB4jRC0wLh_BNzBhMyMfMZEC4rFV2Jbp/view?usp=drive_link" target="_blank">
+          aqui
+        </a> 
+       </b>
+      </p>
+    </td>
+  </tr>
+</table>
+
   <table style="width: 100%; border:none;">
   <tr>
     <td align="center" style="text-align: center; border:none; width: 50%; " >
