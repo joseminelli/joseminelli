@@ -125,8 +125,12 @@
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseminelli&theme=tokyonight&bg_color=00000000&layout=compact&langs_count=168&hide_border=true"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseminelli&theme=tokyonight&hide_border=true&background=EB545400&locale=pt_BR" alt="joseminelli" />
 <img align="center" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joseminelli&theme=transparent&hide_border=true&bg_color=00000000&locale=pt_BR&background=EB545400"/>
-  
-<img src="https://raw.githubusercontent.com/joseminelli/joseminelli/e80c026aa750ee9e03bf75c05937494932aafdac/github-contribution-grid-snake-dark.svg"/>
+ 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
 </p>
 </div>
 
@@ -183,14 +187,6 @@
 
 <br>
 
------
-
-<div align="center">
-  
-<a  href="https://data-card-for-spotify.herokuapp.com/card?user_id=zecarm">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=zecarm" alt="Data Card for Spotify">
-</a>
-</div>
 
 
 -----
