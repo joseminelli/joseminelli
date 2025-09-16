@@ -5,7 +5,11 @@
 </div>
 <br>
 
- - Sou um entusiasta da tecnologia de 19 anos, com cinco anos de experiência em programação e atualmente cursando Sistemas de Informação. Com conhecimento em diversas linguagens, incluindo <code>Flutter</code>, <code>Java</code> <code>C++</code>, <code>C#</code>, <code>Lua</code>, <code>JavaScript</code>, <code>HTML</code>, e <code>Node</code>, com habilidades em desenvolvimento web, de jogos e em design gráfico.
+ Sou um Desenvolvedor Full-Stack que tem o foco em transformar ideias em projetos funcionais . Com foco em Flutter, C#, JavaScript e desenvolvimento mobile, trago experiência prática em criação de apps, jogos e sistemas web, sempre com atenção à qualidade e usabilidade.
+
+Atualmente, atuo como Desenvolvedor Full-Stack Junior na Teknisa, enquanto sigo aprofundando meus conhecimentos na área. Paralelamente, desenvolvo projetos como hobby, ampliando minha vivência com diversas tecnologias e frameworks.
+
+Acredito no muito no aprendizado contínuo e na colaboração como motor da inovação. Estou sempre em busca de novos desafios onde possa aplicar minhas habilidades, crescer profissionalmente
 <div align="center">
 <a href="https://joseminelli.github.io/whisklineStudio/" target="_blank"> 
  <img  height="auto" style="width: 100%;" src="https://raw.githubusercontent.com/joseminelli/joseminelli/refs/heads/main/img/portifolionovo.png"> 
