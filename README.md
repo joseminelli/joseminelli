@@ -26,7 +26,7 @@ Acredito no muito no aprendizado contínuo e na colaboração como motor da inov
       <p align="center" style="font-size: 40px;"><b>Tales of Bloomrise</b></p>
       <a href="https://play.google.com/store/apps/details?id=com.minelli.talesofbloomrise" target="_blank">
         <img
-          src="https://github.com/joseminelli/joseminelli/blob/main/img/talesofbloomrise.png?raw=true"
+          src="https://github.com/joseminelli/joseminelli/blob/main/img/bannerTalesBloorise.png?raw=true"
           alt="Tales of Bloomrise"
           style="width: 100%; max-width: 500px; border-radius: 10px;"
         />
