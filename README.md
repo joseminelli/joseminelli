@@ -36,9 +36,9 @@ Acredito no muito no aprendizado contínuo e na colaboração como motor da inov
       <p>Assuma o papel de Rayy, uma jovem aventureira que mora na pacata vila de Bloomrise. O que começa como uma busca por uma aventura rapidamente se transforma em uma grande jornada quando segredos antigos e dungeons perigosas são revelados sob a superfície tranquila da vila.</p>
      <br>
       <p align="center">
-       Baixe na Play Store!
+       Veja na Steam!
        <b>
-        <a href="https://play.google.com/store/apps/details?id=com.minelli.talesofbloomrise" target="_blank">
+        <a href="https://store.steampowered.com/app/4383630/Tales_of_Bloomrise/" target="_blank">
           aqui
         </a> 
        </b>
