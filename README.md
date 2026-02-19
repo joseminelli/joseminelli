@@ -11,7 +11,7 @@ Atualmente, atuo como Desenvolvedor Full-Stack Junior na Teknisa, enquanto sigo 
 
 Acredito no muito no aprendizado contínuo e na colaboração como motor da inovação. Estou sempre em busca de novos desafios onde possa aplicar minhas habilidades, crescer profissionalmente
 <div align="center">
-<a href="https://whiskline-studio.github.io/website/" target="_blank"> 
+<a href="whisklinestudio.com" target="_blank"> 
  <img  height="auto" style="width: 100%;" src="https://raw.githubusercontent.com/joseminelli/joseminelli/refs/heads/main/img/portifolionovo.png"> 
 </a> 
 </div>
