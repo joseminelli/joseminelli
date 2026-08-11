@@ -126,16 +126,16 @@ Acredito no muito no aprendizado contínuo e na colaboração como motor da inov
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=joseminelli&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=joseminelli&theme=github-dark" alt="Language stack" /></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=joseminelli&theme=aurora&style=jet&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=joseminelli&theme=aurora&style=jet" alt="Language stack" /></picture>
 </p>
 
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=joseminelli&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=joseminelli&theme=github-dark" alt="GitHub Stats" /></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=joseminelli&theme=aurora&style=jet&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=joseminelli&theme=aurora&style=jet" alt="GitHub Stats" /></picture>
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=joseminelli&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=joseminelli&theme=github-dark" alt="joseminelli featured projects" /></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=joseminelli&theme=aurora&style=jet&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=joseminelli&theme=aurora&style=jet" alt="joseminelli featured projects" /></picture>
 </p>
 
 -----
