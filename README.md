@@ -124,19 +124,19 @@ Acredito no muito no aprendizado contínuo e na colaboração como motor da inov
 -----
 
 <h3 align="center">GitHub Stats</h3>
-<div align="center">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=joseminelli&show_icons=true&theme=tokyonight&count_private=true&bg_color=00000000&hide_border=true"/>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseminelli&theme=tokyonight&bg_color=00000000&layout=compact&langs_count=168&hide_border=true"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseminelli&theme=tokyonight&hide_border=true&background=EB545400&locale=pt_BR" alt="joseminelli" />
-<img align="center" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joseminelli&theme=transparent&hide_border=true&bg_color=00000000&locale=pt_BR&background=EB545400"/>
- 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-</picture>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=joseminelli&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=joseminelli&theme=github-dark" alt="Language stack" /></picture>
 </p>
-</div>
+
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=joseminelli&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=joseminelli&theme=github-dark" alt="GitHub Stats" /></picture>
+</p>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=joseminelli&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=joseminelli&theme=github-dark" alt="joseminelli featured projects" /></picture>
+</p>
 
 -----
 
@@ -228,4 +228,6 @@ Acredito no muito no aprendizado contínuo e na colaboração como motor da inov
 <img alt="Followers" src="https://img.shields.io/github/followers/joseminelli?style=social"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/joseminelli?style=social"/>
 </div>
+
+
 
