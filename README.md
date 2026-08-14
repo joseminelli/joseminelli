@@ -4,12 +4,32 @@
 <img align="center" alt="Header" src="https://github.com/joseminelli/joseminelli/blob/main/img/banner.png"/>
 </div>
 <br>
+<div align="center">
+ <h3>
+ Desenvolvedor de Software Full Stack
+ </h3>
+</div>
 
- Sou um Desenvolvedor Full-Stack que tem o foco em transformar ideias em projetos funcionais . Com foco em Flutter, C#, JavaScript e desenvolvimento mobile, trago experiência prática em criação de apps, jogos e sistemas web, sempre com atenção à qualidade e usabilidade.
+Focado em transformar ideias e requisitos complexos em sistemas funcionais, performáticos e bem estruturados. Experiência no desenvolvimento de ponta a ponta em plataformas web corporativas, modernização de sistemas legados, criação de aplicativos e jogos, sempre com foco em qualidade de código, arquitetura e usabilidade.
 
-Atualmente, atuo como Desenvolvedor Full-Stack Junior na Teknisa, enquanto sigo aprofundando meus conhecimentos na área. Paralelamente, desenvolvo projetos como hobby, ampliando minha vivência com diversas tecnologias e frameworks.
+Principais Frentes de Atuação:
 
-Acredito no muito no aprendizado contínuo e na colaboração como motor da inovação. Estou sempre em busca de novos desafios onde possa aplicar minhas habilidades, crescer profissionalmente
+* Desenvolvimento e evolução de sistemas web complexos, atuando com PHP no backend e interfaces dinâmicas com TypeScript, Vue.js, Angular e Next.js.
+* Modernização, refatoração de código e atualização estrutural de plataformas legadas.
+* Criação e integração de APIs RESTful e modelagem de bancos de dados relacionais.
+* Criação de aplicativos mobile com Flutter e projetos de jogos como hobby, explorando novas tecnologias e arquiteturas.
+* Padronização de ambientes consistentes utilizando Docker e controle de versão com Git.
+* Participação ativa na tomada de decisões técnicas, boas práticas e aprendizado contínuo.
+
+Stack & Ferramentas:
+
+* Web Backend: PHP (8.x / 7.x), APIs RESTful, SQL
+* Web Frontend: TypeScript, JavaScript, Vue.js, Angular, Next.js
+* Mobile & Outros: Flutter, C#, Game Development
+* Ferramentas & DevOps: Docker, Git
+  
+-----
+
 <div align="center">
 <a href="whisklinestudio.com" target="_blank"> 
  <img  height="auto" style="width: 100%;" src="https://raw.githubusercontent.com/joseminelli/joseminelli/refs/heads/main/img/portifolionovo.png"> 
@@ -126,69 +146,72 @@ Acredito no muito no aprendizado contínuo e na colaboração como motor da inov
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=joseminelli&theme=aurora&style=jet&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=joseminelli&theme=aurora&style=jet" alt="Language stack" /></picture>
-</p>
-
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=joseminelli&theme=aurora&style=jet&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=joseminelli&theme=aurora&style=jet" alt="GitHub Stats" /></picture>
-</p>
-
-<p align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=joseminelli&theme=aurora&style=jet&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=joseminelli&theme=aurora&style=jet" alt="joseminelli featured projects" /></picture>
 </p>
 
 -----
 
 
-<div align="center">
 <br>
 <h3 align="center"><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas</h3>
 
+<div align="center">
 
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"/></a></code>
+<code><a href="https://www.php.net/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/></a></code>
 &nbsp;
-<code><a href="https://www.python.org/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/></a></code>
-&nbsp; 
-<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/></a></code>
-&nbsp; 
-<code><a href="https://isocpp.org/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/></a></code>
-&nbsp; 
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></a></code>
-&nbsp; 
-<code><a href="https://flutter.dev/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"/></a></code>
+<code><a href="https://www.typescriptlang.org/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/></a></code>
 &nbsp;
-<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/></a></code>
-&nbsp; 
-<code><a href="https://www.postgresql.org/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/></a></code>
-&nbsp; 
-<code><a href="https://jquery.com/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jquery/jquery-plain-wordmark.svg"/></a></code>
-&nbsp; 
-<code><a href="https://www.mysql.com/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original.svg"/></a></code>
+<code><a href="https://vuejs.org/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"/></a></code>
 &nbsp;
-<code><a href="https://www.lua.org/download.html" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/lua/lua-original.svg"/></a></code>
+<code><a href="https://angular.io/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/></a></code>
 &nbsp;
-<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/></a></code>
-&nbsp; 
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"/></a></code>
+<code><a href="https://nextjs.org/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/></a></code>
 &nbsp;
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></a></code>
-&nbsp; 
+<code><a href="https://flutter.dev/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/></a></code>
+&nbsp;
+<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/></a></code>
+&nbsp;
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></a></code>
+&nbsp;
+<code><a href="https://nodejs.org/en/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/></a></code>
+&nbsp;
+<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></a></code>
+&nbsp;
+<code><a href="https://www.docker.com/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/></a></code>
+&nbsp;
+<code><a href="https://git-scm.com/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></a></code>
+&nbsp;
+<code><a href="https://www.postgresql.org/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/></a></code>
+&nbsp;
+<code><a href="https://www.mysql.com/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/></a></code>
+&nbsp;
+<code><a href="https://www.python.org/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a></code>
+&nbsp;
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></a></code>
+&nbsp;
 <code><a href="https://openjfx.io/" target="_blank"><img height="40" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/javafx.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/></a></code>
-&nbsp; 
-<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/></a></code>
-&nbsp; 
-<code><a href="https://nodejs.org/en/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/></a></code>
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a></code>
 &nbsp;
-<code><a href="https://www.unrealengine.com" target="_blank"><img width="40" height="40" src="https://www.pikpng.com/pngl/b/543-5434947_unreal-engine-logo-unreal-engine-logo-ico-clipart.png"/></a></code>
+<code><a href="https://isocpp.org/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/></a></code>
 &nbsp;
-<code><a href="https://unity.com/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"/></a></code>
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></a></code>
 &nbsp;
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></a></code>
+&nbsp;
+<code><a href="https://jquery.com/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg"/></a></code>
+&nbsp;
+<code><a href="https://www.lua.org/download.html" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"/></a></code>
+&nbsp;
+<code><a href="https://unity.com/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"/></a></code>
+&nbsp;
+<code><a href="https://www.unrealengine.com" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg"/></a></code>
+&nbsp;
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg"/></a></code>
+&nbsp;
+<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"/></a></code>
 
 </div>
-
 <br>
 
 
