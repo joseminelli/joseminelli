@@ -59,7 +59,7 @@ Disponível na **[Steam](https://store.steampowered.com/app/4383630/Tales_of_Blo
 
 <div align="center">
   <a href="https://drive.google.com/file/d/169OuvYzyZYqSmg7uHuIRu-n-IGT465cd/view?usp=drive_link" target="_blank">
-    <img src="https://github.com/joseminelli/joseminelli/blob/main/img/PurrCafe_Banner.png" alt="Purr Cafe" width="48%" style="max-width: 420px; border-radius: 6px;"/>
+    <img src="https://i.imgur.com/FCEZKDa.png" alt="Purr Cafe" width="48%" style="max-width: 420px; border-radius: 6px;"/>
   </a>
   <a href="https://www.behance.net/gallery/205064669/ComunicATIVA-app-design" target="_blank">
     <img src="https://raw.githubusercontent.com/joseminelli/joseminelli/refs/heads/main/img/comunicativa.png" alt="ComunicATIVA" width="48%" style="max-width: 420px; border-radius: 6px;"/>
