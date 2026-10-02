@@ -71,16 +71,16 @@ Disponível na **[Steam](https://store.steampowered.com/app/4383630/Tales_of_Blo
 
 ---
 
-### ShowBook
+### Receyta
 
 <p align="center">
-  <a href="https://www.behance.net/gallery/217410565/ShowBook?" target="_blank">
-    <img src="https://github.com/joseminelli/joseminelli/blob/main/img/showbook.png" alt="ShowBook" width="80%" style="max-width: 320px; border-radius: 8px;"/>
+  <a href="https://play.google.com/store/apps/details?id=com.whisklinestudio.receyta" target="_blank">
+    <img src="https://i.imgur.com/wYnvLfu.png" alt="ShowBook" width="80%" style="max-width: 320px; border-radius: 8px;"/>
   </a>
 </p>
 
-Aplicativo desenvolvido em Flutter com arquitetura MVVM, projetado para ser um diário de shows, permitindo registrar e guardar memórias de cada evento assistido.  
-**[Apresentação no Behance](https://www.behance.net/gallery/217410565/ShowBook?)** | **[Baixar APK](https://drive.google.com/file/d/1OB4jRC0wLh_BNzBhMyMfMZEC4rFV2Jbp/view?usp=drive_link)**.
+Guarde o que você realmente cozinha, planeje a semana e deixe a lista de compras se montar sozinha a partir das receitas que você escolheu fazer.
+**[Link da Google Play](https://play.google.com/store/apps/details?id=com.whisklinestudio.receyta)**.
 
 <br>
 
