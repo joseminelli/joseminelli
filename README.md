@@ -75,7 +75,7 @@ Disponível na **[Steam](https://store.steampowered.com/app/4383630/Tales_of_Blo
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.whisklinestudio.receyta" target="_blank">
-    <img src="https://i.imgur.com/wYnvLfu.png" alt="ShowBook" width="80%" style="max-width: 320px; border-radius: 8px;"/>
+    <img src="https://i.imgur.com/I76fHF8.png" alt="ShowBook" width="80%" style="max-width: 320px; border-radius: 8px;"/>
   </a>
 </p>
 
