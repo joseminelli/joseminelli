@@ -30,12 +30,27 @@ Focado em transformar ideias e requisitos complexos em sistemas funcionais, perf
 ### Tales of Bloomrise
 <p align="center">
   <a href="https://store.steampowered.com/app/4383630/Tales_of_Bloomrise/" target="_blank">
-    <img src="https://i.imgur.com/GeB4tQn.png" alt="Tales of Bloomrise" width="80%" style="max-width: 600px; border-radius: 8px;"/>
+    <img src="https://i.imgur.com/GeB4tQn.png" alt="Tales of Bloomrise" width="70%" style="max-width: 600px; border-radius: 8px;"/>
   </a>
 </p>
 
 Assuma o papel de Rayy, uma jovem aventureira que mora na pacata vila de Bloomrise. O que começa como uma busca por uma aventura rapidamente se transforma em uma grande jornada quando segredos antigos e dungeons perigosas são revelados sob a superfície tranquila da vila.  
 Disponível na **[Steam](https://store.steampowered.com/app/4383630/Tales_of_Bloomrise/)** e na **[Google Play](https://play.google.com/store/apps/details?id=com.minelli.talesofbloomrise)**.
+
+---
+
+### Receyta
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.whisklinestudio.receyta" target="_blank">
+    <img src="https://i.imgur.com/I76fHF8.png" alt="ShowBook" width="70%" style="max-width: 320px; border-radius: 8px;"/>
+  </a>
+</p>
+
+Guarde o que você realmente cozinha, planeje a semana e deixe a lista de compras se montar sozinha a partir das receitas que você escolheu fazer.
+**[Link da Google Play](https://play.google.com/store/apps/details?id=com.whisklinestudio.receyta)**.
+
+<br>
 
 ---
 
@@ -69,20 +84,7 @@ Disponível na **[Steam](https://store.steampowered.com/app/4383630/Tales_of_Blo
 * **Purr Cafe:** Jogo mobile desenvolvido em C#. **[Baixar APK](https://drive.google.com/file/d/169OuvYzyZYqSmg7uHuIRu-n-IGT465cd/view?usp=drive_link)**.
 * **ComunicATIVA:** Aplicativo assistivo desenvolvido em Flutter com foco em acessibilidade e comunicação. **[Ver no Behance](https://www.behance.net/gallery/205064669/ComunicATIVA-app-design)** | **[Baixar APK](https://drive.google.com/file/d/1d5G4_RPJerEECp2xDWUSLaBMmAt-B_nf/view?usp=drive_link)**.
 
----
 
-### Receyta
-
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.whisklinestudio.receyta" target="_blank">
-    <img src="https://i.imgur.com/I76fHF8.png" alt="ShowBook" width="80%" style="max-width: 320px; border-radius: 8px;"/>
-  </a>
-</p>
-
-Guarde o que você realmente cozinha, planeje a semana e deixe a lista de compras se montar sozinha a partir das receitas que você escolheu fazer.
-**[Link da Google Play](https://play.google.com/store/apps/details?id=com.whisklinestudio.receyta)**.
-
-<br>
 
 ## GitHub Stats
 
