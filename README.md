@@ -84,19 +84,6 @@ Guarde o que você realmente cozinha, planeje a semana e deixe a lista de compra
 * **Purr Cafe:** Jogo mobile desenvolvido em C#. **[Baixar APK](https://drive.google.com/file/d/169OuvYzyZYqSmg7uHuIRu-n-IGT465cd/view?usp=drive_link)**.
 * **ComunicATIVA:** Aplicativo assistivo desenvolvido em Flutter com foco em acessibilidade e comunicação. **[Ver no Behance](https://www.behance.net/gallery/205064669/ComunicATIVA-app-design)** | **[Baixar APK](https://drive.google.com/file/d/1d5G4_RPJerEECp2xDWUSLaBMmAt-B_nf/view?usp=drive_link)**.
 
-
-
-## GitHub Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=joseminelli&theme=aurora&style=jet&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=joseminelli&theme=aurora&style=jet" alt="joseminelli heatmap" width="100%" />
-  </picture>
-</div>
-
-<br>
-
 ## Linguagens e Ferramentas
 
 
